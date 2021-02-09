@@ -2,7 +2,7 @@ numbers = [1,2,3]
 
 def square_array(numbers)
   array = []
-  array << index ** 2
+  array << numbers ** 2
   array
 end
 
